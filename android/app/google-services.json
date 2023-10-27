@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324894335225",
+    "project_id": "hospitalappsanyamratreja",
+    "storage_bucket": "hospitalappsanyamratreja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324894335225:android:d9db6cc458335b4c574228",
+        "android_client_info": {
+          "package_name": "com.hospitalappsanyamratreja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324894335225-c4r5j2emj1q0g9o7ci046lch2t020mr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hospitalappsanyamratreja",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "324894335225-ds3cqtr5tc90cjajikui59kbfsbfau9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hospitalappsanyamratreja",
+            "certificate_hash": "f13174fad264bc18f4372b2c446ba9af407a7296"
+          }
+        },
+        {
+          "client_id": "324894335225-93mecedhphmisaeg16u4kpiik4isje4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9opOPUYkYVIS8JW5DcVzgl7Ix0oZIWvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324894335225-93mecedhphmisaeg16u4kpiik4isje4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
